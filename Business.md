@@ -1,7 +1,7 @@
 # How a Professional Website Helps in Business Growth in 2026 ?
 ## **INTRODUCTION**
 
-In today's world most of the business are working online than offline. After the covid pandemic people are more concern to grow their business online. To run your business in more professional way a decent website is necessary .A business has limited territory in offline but the same business expand it's terain when it comes online.
+In today's world most of the business are working online than offline. After the covid pandemic people are more concern to grow their business online. To run your business in more professional way a decent website is necessary .A business has limited territory in offline but the same business expand it's territory when it comes online.
 
 ![alt text](image.png)
 ##  Top 5 Reasons Why a Business eeds a Website ?
@@ -9,7 +9,7 @@ In today's world most of the business are working online than offline. After the
 - Make your business accessible
 - Increase competitiveness in market
 - Attract  global customers
-- Easy to display the detalis of your business 
+- Easy to display the details of your business 
 
 ![alt text](image-1.png)
   
